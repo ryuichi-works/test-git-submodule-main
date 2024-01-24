@@ -1,0 +1,6 @@
+[submodule "src/sub-repository-frontend"]
+	path = src/sub-repository-frontend
+	url = https://github.com/ryuichi-works/sub-repository-frontend.git
+[submodule "src/sub-repository-backend"]
+	path = src/sub-repository-backend
+	url = https://github.com/ryuichi-works/sub-repository-backend.git
